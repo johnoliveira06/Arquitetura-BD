@@ -6,8 +6,15 @@ Este projeto tem como objetivo trabalhar com dados estruturados por meio da ling
 
 ---
 
-### Modelo lógico do banco de dados
+### Modelo conceitual do banco de dados
+
+![Modelo conceitual](imagens/modelo_conceitual.png)
+
 ---
 
-### Modelo conceitual do banco de dados
+### Modelo lógico do banco de dados
+
+![Modelo lógico](imagens/modelo_logico.png)
+
 ---
+
