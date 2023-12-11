@@ -18,3 +18,11 @@ Este projeto tem como objetivo trabalhar com dados estruturados por meio da ling
 
 ---
 
+### Executando o projeto
+
+- Para executar o projeto siga as etapas:
+
+  1. Execute o arquivo `ScriptCriarTabelas.sql` para criar as tabelas do banco de dados.
+  2. Execute o arquivo `ScriptPreencherTabelas.sql` para preencher as tabelas com dados.
+  3. Execute o arquivo `ScriptCriarFuncoes.sql` para criar algumas Funções e Triggers.
+  4. Abra o arquivo `Queries.sql` para executar algumas queries de teste.
